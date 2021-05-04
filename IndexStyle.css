@@ -1,0 +1,37 @@
+﻿body {
+    background-image: url("https://th.bing.com/th/id/R71b91f4e9325a2d3759ca6d01505f00a?rik=J9DQyiESUeHxlA&pid=ImgRaw");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+nav {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    color: inherit;
+    display: flex;
+}
+
+li a {
+    color: inherit;
+    list-style-type: none;
+    margin-right: 20px;
+    padding: 20px;
+    display: block;
+    border-radius: 20px;
+    background-color: white;
+    text-decoration-line: none;
+}
+
+h1 {
+    padding-left: 20px;
+}
+
+#intro {
+    padding-left: 20px;
+    width: 50%;
+}
