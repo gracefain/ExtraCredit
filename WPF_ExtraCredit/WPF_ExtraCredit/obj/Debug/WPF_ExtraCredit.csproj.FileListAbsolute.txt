@@ -1,0 +1,15 @@
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\bin\Debug\WPF_ExtraCredit.exe.config
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\bin\Debug\WPF_ExtraCredit.exe
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\bin\Debug\WPF_ExtraCredit.pdb
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.csprojAssemblyReference.cache
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\MainWindow.g.cs
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\App.g.cs
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit_MarkupCompile.cache
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit_MarkupCompile.lref
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\MainWindow.baml
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.g.resources
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.Properties.Resources.resources
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.csproj.GenerateResource.cache
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.exe
+C:\Users\Grace Fain\source\repos\gracefain\ExtraCredit\WPF_ExtraCredit\WPF_ExtraCredit\obj\Debug\WPF_ExtraCredit.pdb
